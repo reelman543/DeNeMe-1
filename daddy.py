@@ -8,7 +8,10 @@ ALLOWED_COUNTRIES = {
     'UNITED KINGDOM': 'DaddyLive UK',
     'CANADA': 'DaddyLive CA',
     'AUSTRALIA': 'DaddyLive AU',
-    'NEW ZEALAND': 'DaddyLive NZ'
+    'NEW ZEALAND': 'DaddyLive NZ',
+    'SPAIN': 'DaddyLive ES',
+    'PORTUGAL': 'DaddyLive PT',
+    'FRANCE': 'DaddyLive FR'
 }
 
 SOURCE_URL = 'https://drewski2423-dproxy.hf.space/playlist/channels'
